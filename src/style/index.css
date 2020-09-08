@@ -51,6 +51,10 @@ header .content{
   border-top-color: white;
 }
 
+main .content{
+  width: 981px;
+  margin: auto;
+}
 
 
 
