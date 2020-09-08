@@ -18,3 +18,32 @@ ul {
   margin: 0;
   padding: 0;
 }
+
+header .content{
+  width: 981px;
+  margin: auto;
+  display: flex;  
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-register{
+  display: flex;   
+  align-items: center;
+}
+
+.register-button{
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+.content nav span{
+  display: inline-block;
+  border: 5px solid transparent;
+  border-top-color: black;
+}
+
+
+
+
+
